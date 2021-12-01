@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lupita-kwbm",
+  "private_key_id": "981d960aa1849f9f4695404e78d9512adf52bc1f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCr0TkuCE63Cr++\nijWT45YwZcrTLejR9saMYh1jZ0i5p/AfjLfsJBV/Tl69a8rSwcLl0bbmkV+FF2Sf\nBFZA8MV4mPry0f+mW5cqqNB7Plw0fTUEQddofn23RLsAogVJgu1720jkS8tKw7E1\nPsMQgROV9w1Isvi+Jwrs1DMZsZv+KkhveywLNDhWtlUJxa+wzga5kh1ZrlyHSM5o\nCes/osPLg7AjDJx3R7UIHTw8sVFShV2zh4N0Vbhv2rP5JNGXUReVW0RER8/hq6ur\nCHLNJIH1Velq8rwkH9wD01+XFVG4J1NqxaCWuRJhTJzJU8Tesv/LBC4VCvSG2UHx\nUecBQtyXAgMBAAECggEAIXU6p0Yi3e4P7LDJQiU9Z+tKldkIz2o4u7mXc3X3aX/U\neLBUWH2mWgYO2OAWvPfSViKCdV+1tBscEwMrMLYyHgvcQlC2cdTAGSSKhJVeKzJ+\nknen1Mdc/8U4jST/1pLSYB4RkbNYwRRee7nfDmW0RK25PoDrg0vjCr8/vC8j61hK\nReNIMKNB4Vs9BR95HScGSd3NT9X7rT+qgfid8bJWsePNS4h8d4ewFy7LkEPYfgiB\nk+ZMnIIwj1tfUWlsmfwrV7CwW83lHyE/iOpTRDSrzP2K9L5b0kvkqlyeyYG1VBpU\n0VLXzpss4r11nP2kQ1ZTNQxvyWFnPBYtFOjCBLQkgQKBgQDsD4s/MzL/w3IftGut\nCIw+gmahfjM8I98jcXDk6t54s9Nx8PX7HjXbh+v08xHhuV9pUUBitZilsaf3cxIT\n+qkr6812GgrkQgZ+L+54jz6slqWPHoVyqcRycBsNfRe6b0VxrqZY5pu9AyyLqP2h\n6qHoc8BaimGoSoJXlj92LgAmdwKBgQC6VIMe37f+RReMWDCu1f1uK50eGzRJNHJM\nXqTm1NI/NnMobKBmNkiKILD2bSPamSsZASbm6tA6jNphcAhuBwlNmIr0taWSlCnr\nHt7WmvmxOrcYBBscnJWbHndYRv6JfM2krjUpkc4RfOPCw8GrsyRq6+nSitaKMJiv\n9e9bpzTi4QKBgDElG0xREHEG859+JFylxuzMoSlF6MzAexgZ6fL+ospmRcMW818Q\nbw4BQjKA2FwyB5cZf1oNjHYSgnGV11GpgcbPFLtduJ7E0C09NVyMFfRAeL9PD2FL\nzsY0aK1qOaJqv/5m6eLgP9Qd8QwyZntrKcIHNyiiXqp2uKQbd6LW+NkJAoGBALef\nm4wser1Ix5kWO/vAhL0ym+bUdmWCGvWp+6ZDq2KCPWBkFHpGGpyM9PgUvFWrxm4g\n1X6Rf12D+540cwpDQubGYoIgFKhr/RdpV790AIeozlELktBSe5jfoEtNw4Aojtww\nldF+j+5p/mas1cpog4YfMVG8YwrSM1aM7jKLiDHhAoGANSsyr6rTy0wKsqqlPsdd\nPqV5qY8Hr5A0v4FOQIie75yECG8G/PCViON7XiVdwcrnsnpE4Ss2cVqECnBqz730\ng4K7cWl1EaLjk12gbTZsbjiHVR+CVQDNfPaeb+tw27wOyabC2G7y5Wfdg6GyXhGW\nWoxZHegE+CgJCcdR0P/9zx4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "flutter-con-chatbot@lupita-kwbm.iam.gserviceaccount.com",
+  "client_id": "105718222204349279898",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flutter-con-chatbot%40lupita-kwbm.iam.gserviceaccount.com"
+}
